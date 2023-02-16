@@ -1,16 +1,6 @@
-# covid_tracker
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (54)](https://user-images.githubusercontent.com/124888307/219353922-a5c3da17-a174-4b61-b642-7a78ff2dd181.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/124888307/219353945-a0c1a720-4a91-449f-bd81-06db51a3b042.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/124888307/219353970-17264cd8-8d47-47d4-b1c9-ae16738eb73a.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/124888307/219353985-6e405948-6343-44c2-99d7-0914f41154dd.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/124888307/219354002-7694b4b2-cb2f-44eb-b40a-9a39b1074cd4.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/124888307/219354011-dbeaf03b-ec3f-4964-997c-edb00d711682.png)
